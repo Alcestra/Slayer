@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4641969199323325771}
   - component: {fileID: 854043502606773108}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64,7 +64,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2006842194720488201}
   - component: {fileID: 8387703113811456450}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117,7 +117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6604853375191923279}
   - component: {fileID: 3837513060736986026}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Collider (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -170,7 +170,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4119026375652887900}
   - component: {fileID: 4883205017866932829}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -223,7 +223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 194068861297960285}
   - component: {fileID: 3721545179607308132}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Collider (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -277,7 +277,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 15a0a145fc0058447bdcd0310bc506bc,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 15a0a145fc0058447bdcd0310bc506bc,
         type: 3}
@@ -297,17 +297,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 15a0a145fc0058447bdcd0310bc506bc,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: 41.04
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 15a0a145fc0058447bdcd0310bc506bc,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 15a0a145fc0058447bdcd0310bc506bc,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: -70.59
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 15a0a145fc0058447bdcd0310bc506bc,
         type: 3}

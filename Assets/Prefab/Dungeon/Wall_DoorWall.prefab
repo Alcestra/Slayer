@@ -245,7 +245,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 655a24178dd426b41bea6ddbde40715f,
         type: 3}
       propertyPath: m_Name
-      value: Wall_DoorWall Variant
+      value: Wall_DoorWall
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 655a24178dd426b41bea6ddbde40715f,
         type: 3}
